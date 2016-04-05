@@ -1,0 +1,32 @@
+.container-clase1{
+	position: relative;	
+	left: 90px;
+}
+.banner{
+	width: 100%;
+	z-index: 0;
+}
+.icono{
+	position:relative;
+	border: 30px
+}
+.icon{
+	width: 190px;
+	height: 190px;
+}
+.container-fluid2{
+	bottom: 5px;
+	background-color: orange;
+	padding: 40px;
+}
+.icons{
+	width: 190px;
+	height: 190px;
+}
+.container-clase6{
+	width: 100%;
+}
+.icono{
+	width: 20px;
+	height: 20px;
+}
